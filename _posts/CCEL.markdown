@@ -7,7 +7,23 @@ author: Chris
 description: University of Windsor
 ---
 
-Clean Combustion Engine Laboratory 2012 - 2017
+Research Assistant at the Clean Combustion Engine Laboratory 2012 - 2017
 ============
 
-Research assistant at the Clean combustion Engine Laboratory 
+During my undergraduate and master's studies I conducted research at the University of Windsor's Clean Combustion Engine Laboratory (CCEL). The main focus of the CCEL is to investigate efficient, low-emission combustion strategies for heavy and light-duty applications. The entire operation of the laboratory is run by the director, Dr. Ming Zheng, Post-doctoral fellows, and PhD and Master's candidates. 
+
+The CCEL began operation at the University of Windsor in 2003. With funding from Canadian government agencies such as: Natural Sciences and Engineering Research Council of Canada (NSERC), Canada Foundation for Innovation (CFI), Ontario Research Funds, AUTO21 and BioFuelNet Canada, as well as from Automotive manufacturers such as: Ford Motor Company, the CCEL has amassed a wide-array of equipment and facilities. Some of this equipment includes:
+
+- Dual-bank DC engine dynamometer
+- 2 Eddy Current engine dynamomters
+- AC engine dynamometer
+- Custom designed 300 bar AVL single cylinder research engine with optical visioscope access ports
+- Single cylinder compression ignition research engine that was modified in-house into a spark ignition engine
+- 3 constant volume combustion chambers for optical spray and spark research
+- EFS Injection Test Bench
+- Various California Analytical Instruments, Horiba and AVl emission analyzers
+- In-house fabricated exhaust conditioning unit with heated sampling line, heated filter, heated pump, chiller and dryer.
+- In-house developed engine control algorithms operating on National Instrument's LabVIEW interface
+- Isolated exhaust after-treatment bench
+
+As a research assistant at the CCEL, I was personally involved in many areas of research, actively participating in the design and fabrication of various facilities, as well as testing and data processing. Some of the various design and fabrications I conducted
