@@ -14,9 +14,9 @@ baseurl: '/chrisaversa.github.io'
 ## default date_format
 date_format: 
   title: "%B-%-d-%Y"
-  archive: "%b"
-  categories: "%b-%Y"
-  tag: "%b-%Y"
+  AcademicExperience: "%b"
+  WorkExperience: "%b-%Y"
+  Other: "%b-%Y"
 # Language
 lan: "en" 
 
