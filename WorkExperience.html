@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="well article" style="background-color:lightblue">
-{% assign sortedcategories = site.categories | sort %}
-{% for WorkExperience in sortedcategories %}
+{% assign sortedWorkExp = site.WorkExperience | sort %}
+{% for WorkExperience in sortedWorkExp %}
     <h2>{{ WorkExperience[0] | capitalize }}</h2>
     <ul>
         {% assign pages_list = WorkExperience[1] %}
