@@ -26,4 +26,14 @@ The CCEL began operation at the University of Windsor in 2003. With funding from
 - In-house developed engine control algorithms operating on National Instrument's LabVIEW interface
 - Isolated exhaust after-treatment bench
 
-As a research assistant at the CCEL, I was personally involved in many areas of research, actively participating in the design and fabrication of various facilities, as well as testing and data processing. Some of the various design and fabrications I conducted
+As a research assistant at the CCEL, I was personally involved in many areas of research, actively participating in the design and fabrication of various facilities, as well as testing and data processing. Some of the various design and fabrications I was involved with include:
+
+- fabrication and installation of a modified piston and cylinder head to convert a diesel engine into a gasoline engine
+- portable fuel conditioning unit
+- heated exhaust after-treatment test bench 
+- Intake, exhaust and EGR pipes for research engines
+- Oil sump for 300 bar research engine
+- Fuel rail mounts
+- DME fuel tank storage cage
+
+
