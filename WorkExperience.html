@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="well article" style="background-color:lightblue">
+<div class="well article">
 {% assign sortedWorkExp = site.WorkExperience | sort %}
 {% for WorkExperience in sortedWorkExp %}
     <h2>{{ WorkExperience[0] | capitalize }}</h2>
