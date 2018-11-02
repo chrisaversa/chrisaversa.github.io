@@ -2,8 +2,8 @@
 layout: post
 title:  "Clean Combustion Engine Laboratory"
 date: 2012-04-17 14:10:51 +0800
-categories: Work Experience
-tags: Other
+categories: [Work Experience]
+tags: [Other]
 author: Chris
 description: University of Windsor
 ---
