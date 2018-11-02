@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Mercedes-Benz Research and Development North America"
+date: 2012-04-17 14:10:51 +0800
+categories: [Work Experience]
+tags: [Other]
+author: Chris
+description: On-Board Diagnostics
+---
+
+Powertrain Valuation Engineer On-Board Diagnostics Mercedes-Benz Research and Development North America 2017-2018
+============
