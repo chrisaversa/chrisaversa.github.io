@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "HORIBA Instruments International"
+date: 2017-03-12 14:10:51 +0800
+categories: [Work Experience]
+tags: [Other]
+author: Chris
+description: Application Engineer
+---
+
+Application Engineer at HORIBA Instruments International 2017 - Present
+============
