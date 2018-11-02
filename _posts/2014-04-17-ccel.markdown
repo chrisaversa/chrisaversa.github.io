@@ -8,7 +8,8 @@ author: Chris
 description: University of Windsor
 ---
 
-## Research Assistant at the Clean Combustion Engine Laboratory 2012 - 2017
+## Research Assistant at the Clean Combustion Engine Laboratory 
+#### April 2012 - June 2017
 ============
 
 During my undergraduate and master's studies I conducted research at the [University of Windsor's Clean Combustion Engine Laboratory (CCEL)](https://uwindsor.ca/cleancombustion). The main focus of the CCEL is to investigate **efficient, low-emission combustion strategies for heavy and light-duty applications**. The entire operation of the laboratory is run by the director, Dr. Ming Zheng, Post-doctoral fellows, and PhD and Master's candidates. 
